@@ -2,5 +2,7 @@
   "name": "Varshni Portfolio",
   "description": "Personal portfolio website for Varshni, a first-year B.Tech CSE student and aspiring AI Engineer.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
